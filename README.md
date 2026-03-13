@@ -36,4 +36,21 @@ The main objectives of this project are:
 | **Jupyter Notebook** | Interactive data analysis environment |
 
 ---
+Key Tasks Performed
+
+* Loaded and inspected the dataset
+* Cleaned and preprocessed the data
+* Handled missing values
+* Performed exploratory data analysis (EDA)
+* Created visualizations for better insights
+
+---
+
+Skills Gained
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Data visualization techniques
+* Analytical thinking and interpretation
+
 
